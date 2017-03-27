@@ -17,7 +17,10 @@ mois.splice(7,1);
 console.log(mois);
 
 // afficher toutes les valeurs du tableau
-console.log(mois);
+var i = mois
+for(var i=0; i<mois.length; i++){
+	console.log(mois[i]);
+}
 
 //Récupérer le fichier array
 var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
