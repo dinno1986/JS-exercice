@@ -30,9 +30,13 @@ fruits.push("courgette");
 console.log(fruits);
 
 //Rajouter Citron à l'index 4
-fruits.splice(4,0,"citron");
+fruits[4].push("citron");
 console.log(fruits);
 
 //Retirer Cerise
 fruits.splice(1,1);
+console.log(fruits);
+
+//Rajouter Poire à l'index 2
+fruits.splice(2,0,"poire");
 console.log(fruits);
