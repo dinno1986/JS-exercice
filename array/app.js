@@ -6,3 +6,6 @@ console.log(mois[2]);
 
 //afficher l'index 5
 console.log(mois[4]);
+
+//afficher le mois de Novembre
+console.log(mois[10]);
