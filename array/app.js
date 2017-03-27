@@ -28,3 +28,7 @@ var fruits = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 //Rajouter courgette
 fruits.push("courgette");
 console.log(fruits);
+
+//Rajouter Citron à l'index 4
+fruits.splice(4,0,"citron");
+console.log(fruits);
