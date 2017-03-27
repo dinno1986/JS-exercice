@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Les tableaux
 
 ##Exercice 1
@@ -45,9 +44,3 @@ Retirer "Cerise";
 
 ##Exercice 11
 Rajouter "Poire" en index 2 du tableau array;
-=======
-#JS-exercice
-
-* Forkez le repo !
-* Des que vous validé une étape, ajoutez le et commitez le.
->>>>>>> fe4d410905befaf836473c956b11e267ff4e098f
