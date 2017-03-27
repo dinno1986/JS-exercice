@@ -33,7 +33,7 @@ function returnthis(foo){
 
  // fonction qui prend en parametre un nombre et une chaîne de caractère
  function machin(nbre,caractère){
- 	return nbre+caractère
+ 	return nbre+caractère;
  }
  console.log(machin(1,"hep"));
 
@@ -43,3 +43,5 @@ function returnthis(foo){
 
  }
 console.log(call("Castell","Dimitri",31));
+
+//
