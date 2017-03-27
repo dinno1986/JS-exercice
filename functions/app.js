@@ -30,3 +30,9 @@ function returnthis(foo){
  }
 
  console.log(dim(4,6));
+
+ // fonction qui prend en parametre un nombre et une chaîne de caractère
+ function machin(nbre,caractère){
+ 	return nbre+caractère
+ }
+ console.log(machin(1,"hep"));
