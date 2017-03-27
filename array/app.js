@@ -32,3 +32,7 @@ console.log(fruits);
 //Rajouter Citron à l'index 4
 fruits.splice(4,0,"citron");
 console.log(fruits);
+
+//Retirer Cerise
+fruits.splice(1,1);
+console.log(fruits);
