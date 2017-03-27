@@ -36,3 +36,10 @@ function returnthis(foo){
  	return nbre+caractère
  }
  console.log(machin(1,"hep"));
+
+ // fonction qui prend 3 parametres et renvoie une chaine
+ function call(nom, prénom, age){
+ 	return "Bonjour" + " " + nom+" "+prénom+" " +"tu as"+" "+ age+ "ans";
+
+ }
+console.log(call("Castell","Dimitri",31));
