@@ -5,16 +5,13 @@ console.log(mois);
 console.log(mois[2]);
 
 //afficher l'index 5
-console.log(mois[4]);
+console.log(mois[5]);
 
 //afficher le mois de Novembre
 console.log(mois[10]);
 
 // modifier le mois d'Aout
-mois.splice(8,0,"Août");
-console.log(mois);
-mois.splice(7,1);
-console.log(mois);
+mois[7]="Août";
 
 // afficher toutes les valeurs du tableau
 var i = mois
