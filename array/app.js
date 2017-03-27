@@ -23,4 +23,8 @@ for(var i=0; i<mois.length; i++){
 }
 
 //Récupérer le fichier array
-var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+var fruits = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
+
+//Rajouter courgette
+fruits.push("courgette");
+console.log(fruits);
