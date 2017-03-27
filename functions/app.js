@@ -15,3 +15,18 @@ function returnthis(foo){
 	return foo+bar
 }
  console.log(that("chaud","patate"));
+
+ // fonction qui prend en parametre 2 chiffre
+ function dim(a,b){
+ 	if(a>b){
+ 		return("a est plus grand");
+ 	}
+ 	else if(a<b)	{
+ 		return("a est plus petit");
+ 	}
+ 	else{
+ 		return("ils sont egaux");
+ 	}
+ }
+
+ console.log(dim(4,6));
