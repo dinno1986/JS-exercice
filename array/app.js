@@ -15,3 +15,6 @@ mois.splice(8,0,"Août");
 console.log(mois);
 mois.splice(7,1);
 console.log(mois);
+
+// afficher toutes les valeurs du tableau
+console.log(mois);
