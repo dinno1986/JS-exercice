@@ -18,3 +18,6 @@ console.log(mois);
 
 // afficher toutes les valeurs du tableau
 console.log(mois);
+
+//Récupérer le fichier array
+var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
